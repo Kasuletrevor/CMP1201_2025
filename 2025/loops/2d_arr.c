@@ -6,12 +6,12 @@ int main()
 {
     int s, m;
 
-    // printf("Enter the number of students:");
-    // scanf("%d", &s);
-    // printf("Enter the number of scores:");
-    // scanf("%d", &m);
+    printf("Enter the number of students:");
+    scanf("%d", &s);
+    printf("Enter the number of scores:");
+    scanf("%d", &m);
 
-    // int scores[S][M];
+    int scores[S][M];
 
     for (int i = 0; i < S; i++)
     {
