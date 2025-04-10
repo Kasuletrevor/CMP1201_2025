@@ -10,6 +10,7 @@ int main()
     printf("%d\n", myage);
     printf("%p \n", &myage);
     printf("%p \n", myage_ptr);
+    printf("%d \n", *myage_ptr);
 
     return 0;
 }
