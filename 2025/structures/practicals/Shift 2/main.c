@@ -33,7 +33,6 @@ int main()
 
     printf("Enter your age: ");
     scanf("%d", &student3.age);
-
     // strcpy(student3.name, "Kasule John");
     // strcpy(student3.regno, "19/U/14XXX");
     // strcpy(student3.hall, "Lumumba");
