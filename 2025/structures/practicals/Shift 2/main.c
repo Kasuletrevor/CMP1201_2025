@@ -16,7 +16,6 @@ int main()
     printf("%s\n", student1.name);
     printf("%s\n", student1.hall);
     printf("%c\n", student1.gender);
-
     printf("%d \n", student1.age);
 
     Student student2 = {"Paul Mukasa", "Nkrumah", 'M', "24/U/243467", 28};
