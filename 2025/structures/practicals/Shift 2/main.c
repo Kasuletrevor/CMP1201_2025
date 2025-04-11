@@ -19,7 +19,7 @@ int main()
 
     printf("%d \n", student1.age);
 
-    Student student2 = {"Paul Mukasa", "nkrumah", 'M', "24/U/243467", 28};
+    Student student2 = {"Paul Mukasa", "Nkrumah", 'M', "24/U/243467", 28};
     Student student3;
     // student3.age = 20;
     //  student3.name = "Kasule John";
