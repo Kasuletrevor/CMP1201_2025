@@ -3,7 +3,6 @@
 
 int main()
 {
-
     typedef struct
     {
         char name[50];
