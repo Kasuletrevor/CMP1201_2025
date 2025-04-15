@@ -1,1 +1,7 @@
 struct.c
+*.exe
+*.pdb
+*.obj
+*.ilk
+.vscode/*
+*.json
