@@ -5,7 +5,7 @@ float area_of_circle(float radius);
 int main()
 {
     float r, a;
-    r = 7.5;
+    r = 10.5;
 
     a = area_of_circle(r);
 
